@@ -5,8 +5,8 @@ Shiny app for tracking antimicrobial resistance trends
 
 **Step 2**: Download and run "app.R" in your R Studio
 
-**Step 3**: Once the application has been launched, you should select all the filters and then click on the submit button, since the filters are smart, they will be limited based on your previous selections.
+**Step 3**: Once the application has been launched, you should select all the filters and then click on the submit button, since the filters are smart, they will be limited based on your previous selections
 
-**Step 4**: You can download data (CSV file) that has been filtered based on your selection.
+**Step 4**: You can download data (CSV file) that has been filtered based on your selection
 
 Thanks and I look forward to receiving your feedback and ideas
